@@ -4,12 +4,6 @@
 
 [contact@yefimenko.tech](mailto:contact@yefimenko.tech) · [yefimenko.tech](https://yefimenko.tech) · [LinkedIn](https://linkedin.com/in/viacheslav-yefimenko)
 
----
-
-I build REST APIs, authentication systems and database-backed applications in Python and TypeScript, then deploy them to Linux with Docker. Everything below is a project I wrote and can walk you through.
-
-Reading BSc Computer Science at the University of Lincoln, expected June 2027. **Open to Software Engineering internships and graduate roles.**
-
 ## Selected work
 
 | Project | What it is | Stack |
@@ -38,5 +32,7 @@ Write-ups, screenshots and metrics for each of these live at [yefimenko.tech](ht
 **BSc Computer Science** — University of Lincoln · expected June 2027, predicted First  
 **BTEC National Foundation Diploma in Engineering** — Lincoln UTC · Merit, 2024  
 **Microsoft Certified: Azure AI Fundamentals** — October 2024
+
+---
 
 Programme Representative at the University of Lincoln, 2024–2026.
