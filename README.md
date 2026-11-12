@@ -1,38 +1,40 @@
 # Viacheslav Yefimenko
 
-**Software Engineer — Backend & Full-Stack** · Lincoln, UK
+Software engineer building web applications end to end in Python and TypeScript — the interface, the API behind it and the database underneath.
 
-[contact@yefimenko.tech](mailto:contact@yefimenko.tech) · [yefimenko.tech](https://yefimenko.tech) · [LinkedIn](https://linkedin.com/in/viacheslav-yefimenko)
+Everything below is covered in more depth at **[yefimenko.tech](https://yefimenko.tech)**: write-ups, screenshots, metrics and what I would change.
 
-## Selected work
+## Work
 
-| Project | What it is | Stack |
+| | | |
 | --- | --- | --- |
-| **[TonAssemble](https://github.com/ByYefimenko/ton-assemble)** | Telegram Mini App that verifies `.ton` domain ownership on-chain and publishes static sites to TON DNS. Fastify API, Telegram bot and React client across an eight-workspace monorepo. | TypeScript · Fastify · React · SQLite · Docker |
-| **[NY Patrol Citation System](https://github.com/ByYefimenko/ny-patrol-citation-system)** | Traffic citation platform with separate driver and administrator portals, JWT sessions and role-gated endpoints over a 12-table schema. Frontend is vanilla JavaScript with zero dependencies. | Python · FastAPI · MySQL · JWT |
-| **[Game Asset Converters](https://github.com/ByYefimenko/converters)** | Reverse-engineered a game engine's undocumented binary formats by disassembling its own loaders, then built a pipeline that decodes all 5,630 packed assets into OBJ, glTF, PNG and JSON. | Python · Binary parsing · glTF · zlib / LZMA |
-| **[Genetic TSP Solver](https://github.com/ByYefimenko/genetic-tsp-solver)** | Genetic algorithm for the Travelling Salesman Problem with swappable selection (tournament / roulette), crossover (OX / PMX) and fitness (Euclidean / A\*), plus a Tkinter visualiser. | Python · NumPy · Tkinter · Pytest |
-| **[Scrape](https://github.com/TSE1426/Scrape)** | Visual programming environment where dragged blocks chain into a node graph that a separate backend engine evaluates recursively. Team project, built through pull requests and code review. | C# · WPF · .NET 10 |
-| **[Dungeon Explorer](https://github.com/ByYefimenko/DungeonExplorer)** | Text-based dungeon crawler written as an exercise in object-oriented design — 13 classes over abstract bases and interfaces, with a test harness. | C# · .NET · OOP |
+| **[TonAssemble](https://yefimenko.tech/projects/tonassemble)** | Builds and publishes real websites for `.ton` domains, inside Telegram. Fastify API, Telegram bot and React Mini App in one monorepo. | TypeScript · Fastify · React · SQLite · Docker |
+| **[Game Asset Converters](https://github.com/ByYefimenko/converters)** | Seven undocumented binary formats reverse-engineered from a game engine's own loaders, then a pipeline that decodes all 5,630 packed assets into open formats. | Python · Binary parsing · ARM64 disassembly · glTF |
+| **[NY Patrol Citation System](https://github.com/ByYefimenko/ny-patrol-citation-system)** | Driver and officer portals over JWT sessions and role-gated endpoints, on a twelve-table MySQL schema. Frontend in vanilla JavaScript with zero dependencies. | Python · FastAPI · MySQL · JWT |
+| **[Genetic TSP Solver](https://github.com/ByYefimenko/genetic-tsp-solver)** | A configurable genetic algorithm for the Travelling Salesman Problem, with A\* fitness for routes that have to go around walls. | Python · NumPy · Tkinter · Pytest |
 
-Write-ups, screenshots and metrics for each of these live at [yefimenko.tech](https://yefimenko.tech).
+Two more — a visual programming environment in C# and WPF, and a text adventure built around object-oriented design — are on the site.
 
 ## Stack
 
-| Area | Tools |
-| --- | --- |
-| **Languages** | Python · TypeScript · JavaScript · C# · SQL |
-| **Frameworks** | FastAPI · Fastify · React · .NET / WPF · NumPy |
-| **Data** | MySQL · SQLite · schema design · migrations |
-| **Infrastructure** | Docker · Linux · VPS deployment · GitHub Actions |
-| **Practices** | REST APIs · JWT authentication · role-based access control · Pytest |
+![Python](https://img.shields.io/badge/Python-2f2f2f?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f2f2f?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2f2f2f?style=flat-square&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2f2f2f?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2f2f2f?style=flat-square&logo=mysql&logoColor=white)
 
-## Education
+![FastAPI](https://img.shields.io/badge/FastAPI-2f2f2f?style=flat-square&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-2f2f2f?style=flat-square&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-2f2f2f?style=flat-square&logo=react&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-2f2f2f?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2f2f2f?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2f2f2f?style=flat-square&logo=sqlite&logoColor=white)
 
-**BSc Computer Science** — University of Lincoln · expected June 2027, predicted First  
-**BTEC National Foundation Diploma in Engineering** — Lincoln UTC · Merit, 2024  
-**Microsoft Certified: Azure AI Fundamentals** — October 2024
+![Docker](https://img.shields.io/badge/Docker-2f2f2f?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2f2f2f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2f2f2f?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2f2f2f?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-Programme Representative at the University of Lincoln, 2024–2026.
+[yefimenko.tech](https://yefimenko.tech) · [LinkedIn](https://linkedin.com/in/viacheslav-yefimenko) · [contact@yefimenko.tech](mailto:contact@yefimenko.tech)
