@@ -18,13 +18,6 @@
 
 ---
 
-### Projects
-
-- [TonAssemble](https://yefimenko.tech/projects/tonassemble) — websites for `.ton` domains, inside Telegram
-- [Game Asset Converters](https://github.com/ByYefimenko/converters) — reverse-engineered binary formats to open ones
-- [NY Patrol Citation System](https://github.com/ByYefimenko/ny-patrol-citation-system) — FastAPI + MySQL portals
-- [Genetic TSP Solver](https://github.com/ByYefimenko/genetic-tsp-solver) — genetic algorithm with A\* fitness
-
 ### Contact
 
 [yefimenko.tech](https://yefimenko.tech) · [LinkedIn](https://linkedin.com/in/viacheslav-yefimenko) · [contact@yefimenko.tech](mailto:contact@yefimenko.tech)
