@@ -1,6 +1,6 @@
 # Viacheslav Yefimenko
 
-Software engineer. Python, TypeScript and C# — web, desktop and low-level tooling.
+Software Engineer · Python & TypeScript
 
 ![Python](https://img.shields.io/badge/Python-2f2f2f?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f2f2f?style=flat-square&logo=typescript&logoColor=white)
