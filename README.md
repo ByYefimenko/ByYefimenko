@@ -4,17 +4,6 @@ Software engineer building web applications end to end in Python and TypeScript 
 
 Everything below is covered in more depth at **[yefimenko.tech](https://yefimenko.tech)**: write-ups, screenshots, metrics and what I would change.
 
-## Work
-
-| | | |
-| --- | --- | --- |
-| **[TonAssemble](https://yefimenko.tech/projects/tonassemble)** | Builds and publishes real websites for `.ton` domains, inside Telegram. Fastify API, Telegram bot and React Mini App in one monorepo. | TypeScript · Fastify · React · SQLite · Docker |
-| **[Game Asset Converters](https://github.com/ByYefimenko/converters)** | Seven undocumented binary formats reverse-engineered from a game engine's own loaders, then a pipeline that decodes all 5,630 packed assets into open formats. | Python · Binary parsing · ARM64 disassembly · glTF |
-| **[NY Patrol Citation System](https://github.com/ByYefimenko/ny-patrol-citation-system)** | Driver and officer portals over JWT sessions and role-gated endpoints, on a twelve-table MySQL schema. Frontend in vanilla JavaScript with zero dependencies. | Python · FastAPI · MySQL · JWT |
-| **[Genetic TSP Solver](https://github.com/ByYefimenko/genetic-tsp-solver)** | A configurable genetic algorithm for the Travelling Salesman Problem, with A\* fitness for routes that have to go around walls. | Python · NumPy · Tkinter · Pytest |
-
-Two more — a visual programming environment in C# and WPF, and a text adventure built around object-oriented design — are on the site.
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-2f2f2f?style=flat-square&logo=python&logoColor=white)
